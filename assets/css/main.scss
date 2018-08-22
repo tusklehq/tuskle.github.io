@@ -23,6 +23,12 @@ main {
     flex: 1 1 0;
 }
 
+img {
+    border: 0;
+    max-width: 100%;
+    height: auto;
+}
+
 .o-content-container {
     margin: 0 auto;
     padding: 0 8vw;

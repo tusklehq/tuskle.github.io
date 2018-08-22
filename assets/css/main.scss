@@ -1,0 +1,36 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "typography";
+@import "navigation";
+@import "button";
+@import "home-page";
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    flex: 1 1 0;
+}
+
+.o-content-container {
+    margin: 0 auto;
+    padding: 0 8vw;
+}
+
+@media screen and (min-width: 64rem) {
+    .page-home.page-home {
+        // padding-top: 10rem;
+        padding-bottom: 4rem;
+    }
+}

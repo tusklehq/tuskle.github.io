@@ -4,15 +4,15 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: heading
-  label: Heading
-  description: hero heading
-  config:
-    required: true
-- type: text
   name: layout
   label: layout
   description: Layout of the page
+  config:
+    required: true
+- type: text
+  name: heading
+  label: Heading
+  description: hero heading
   config:
     required: true
 pages:

@@ -9,5 +9,11 @@ fields:
   description: hero heading
   config:
     required: true
+- type: text
+  name: layout
+  label: layout
+  description: Layout of the page
+  config:
+    required: true
 pages:
 - test.md

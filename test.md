@@ -17,3 +17,7 @@ Monitor your clinic's daily, weekly, and monthly performance to grow your busine
 ## Cloud native
 
 Being in the web means that you will receive new features atomically without needing to install any software patches or computer restarts.
+
+## Mobile friendly
+
+Easily check up on your patients or insights while on the go with mobile friendly user interface.

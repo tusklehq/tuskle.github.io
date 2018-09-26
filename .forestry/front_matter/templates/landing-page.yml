@@ -3,12 +3,17 @@ label: Landing Page
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: select
   name: layout
-  label: layout
-  description: Layout of the page
   config:
+    source:
+      type: simple
     required: true
+    options:
+    - default
+  label: Layout
+  description: Layout of the page
+  default: default
 - type: text
   name: heading
   label: Heading

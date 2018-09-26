@@ -9,5 +9,3 @@ fields:
   description: hero heading
   config:
     required: true
-pages:
-- alternative.md

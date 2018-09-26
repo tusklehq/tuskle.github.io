@@ -2,6 +2,7 @@
 title: test
 date: 2018-09-26 15:41:08 +0000
 heading: Clinic and patient management software
+layout: default
 published: false
 
 ---

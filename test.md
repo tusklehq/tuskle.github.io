@@ -6,13 +6,15 @@ layout: default
 published: false
 
 ---
+# <h1>{{ page.heading }}</h1>
+
 ## Unlimited patient records
 
 Store and search through as many patient records as you'd like. Patient records are kept secure in our infrastructure and is not shared with anyone.
 
 ## Insights into the performance of your clinic
 
-Monitor your clinic's daily, weekly, and monthly performance to grow your business and bring in more revenue. 
+Monitor your clinic's daily, weekly, and monthly performance to grow your business and bring in more revenue.
 
 ## Cloud native
 

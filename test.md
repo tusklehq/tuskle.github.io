@@ -6,8 +6,6 @@ layout: default
 published: false
 
 ---
-# <h1>{{ page.heading }}</h1>
-
 ## Unlimited patient records
 
 Store and search through as many patient records as you'd like. Patient records are kept secure in our infrastructure and is not shared with anyone.

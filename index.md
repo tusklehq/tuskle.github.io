@@ -1,11 +1,9 @@
 ---
-title: test
-date: 2018-09-26 15:41:08 +0000
+layout: home
 heading: Clinic and patient management software
-layout: default
-published: false
-
+published: true
 ---
+
 ## Unlimited patient records
 
 Store and search through as many patient records as you'd like. Patient records are kept secure in our infrastructure and is not shared with anyone.

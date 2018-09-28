@@ -21,4 +21,4 @@ fields:
   config:
     required: true
 pages:
-- test.md
+- index.md

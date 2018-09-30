@@ -2,6 +2,7 @@
 layout: home
 heading: Clinic and patient management software
 published: true
+title: Clinic and patient management software
 ---
 
 ## Unlimited patient records

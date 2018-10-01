@@ -7,6 +7,7 @@
 @import "navigation";
 @import "button";
 @import "home-page";
+@import "image";
 
 html {
     box-sizing: border-box;
@@ -21,12 +22,9 @@ body {
 
 main {
     flex: 1 1 0;
-}
-
-img {
-    border: 0;
-    max-width: 100%;
-    height: auto;
+    padding-top: 7rem;
+    padding-bottom: 0;
+    text-align: center;
 }
 
 .o-content-container {

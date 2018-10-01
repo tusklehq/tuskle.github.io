@@ -1,13 +1,14 @@
 ---
 layout: home
 heading: Clinic and patient management software
-published: true
 title: Clinic and patient management software
----
 
+---
 ## Unlimited patient records
 
 Store and search through as many patient records as you'd like. Patient records are kept secure in our infrastructure and is not shared with anyone.
+
+![Screenshot of the patients list view.](/uploads/Screenshot 2018-10-01 at 18.52.08.png "Patients list view")
 
 ## Insights into the performance of your clinic
 

@@ -12,7 +12,7 @@ permalink: /articles/basic-information/getting-started-with-tuskle
 
 It’s free to create an account with tuskle, and it only takes a few minutes to set up.
 
-1. Visit the [Sign Up]('https://app.tuskle.com/sign-up') page.
+1. Visit the [Sign Up](https://app.tuskle.com/sign-up) page.
 2. Enter your Full name, email, Clinic / Business / Company name, and finally select the country in which your clinic / business reside into the respective fields.
 3. Click the Sign Up button and you will be redirected to the [Login](https://app.tuskle.com/login) page.
 4. You should have received an email with a temporary password which you need to use to login. Make sure to also check your **Junk** folder.

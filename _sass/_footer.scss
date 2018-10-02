@@ -1,0 +1,13 @@
+footer.site-footer {
+    text-align: center;
+    font-size: 14px;
+    color: rgb(93, 112, 121);
+    padding: 1rem 0;
+    a:hover {
+        text-decoration: underline;
+    }
+    a, a:visited {
+        text-decoration: none;
+        color: rgb(0, 0, 238);
+    }
+}

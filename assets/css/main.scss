@@ -6,8 +6,10 @@
 @import "typography";
 @import "navigation";
 @import "button";
+@import "footer";
 @import "home-page";
 @import "image";
+@import "article";
 
 html {
     box-sizing: border-box;
@@ -32,9 +34,11 @@ main {
     padding: 0 8vw;
 }
 
-footer {
-    text-align: center;
-    font-size: 14px;
-    color: rgb(93, 112, 121);
-    padding: 1rem 0;
+.c-tusklelogo {
+    a {
+        text-decoration: none;
+    }
+    a:visited {
+        color: #000;
+    }
 }

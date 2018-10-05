@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Getting started with tuskle
-permalink: /articles/basic-information/getting-started-with-tuskle
+permalink: /help/articles/basic-information/getting-started-with-tuskle
 ---
 
 {% include nav-breadcrumbs.html %}

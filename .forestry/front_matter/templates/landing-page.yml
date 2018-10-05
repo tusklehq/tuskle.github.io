@@ -22,4 +22,4 @@ fields:
   config:
     required: true
 pages:
-- index.md
+- _posts/why-digitise-your-clinic.md

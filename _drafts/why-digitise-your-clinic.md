@@ -29,4 +29,4 @@ Eliminate the need to track down a patient's previous paper medical records and 
 
 The answer to the question of whether to use the power of the web, and digitalisation to empower the medical professionals is an obvious one by now. However, the landscape of tools available today are limited or extremely complicated for mere mortals. Most of the applications available feels like they are just trying to replicate Microsoft Excel on the Web. Others, require you to have technical knowledge including install software, maintaining them and occasionally debugging these applications. 
 
-The few that are usable are tuned and priced for big medical enterprises and is not affordable for the majority of clinics.
+The few that are usable are tuned and priced for big medical enterprises and is not affordable for the majority of clinics. Why must the elites be allowed to have access to these benefits? 

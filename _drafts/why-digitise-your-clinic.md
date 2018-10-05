@@ -2,7 +2,6 @@
 title: Why digitise your clinic?
 layout: blog
 date: 2018-10-05 19:43:02 +0000
-heading: Why digitise your clinic?
 
 ---
 # Why digitise your clinic?

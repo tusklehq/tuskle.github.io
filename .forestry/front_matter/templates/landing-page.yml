@@ -22,4 +22,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/how-to-promote-your-clinic-more-effectively-on-the-web.md
 - _posts/why-digitise-your-clinic.md
